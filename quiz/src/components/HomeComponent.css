@@ -1,0 +1,23 @@
+.home {
+    background-color: rgba(60, 29, 238, 0.904);
+    width: 100%;
+    height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .quiz {
+    color: white;
+    text-align: center;
+  }
+  
+  #pl {
+    border-radius: 20px;
+    padding: 8px;
+    background-color: green;
+    border: none;
+    width: 150px;
+  }
+  

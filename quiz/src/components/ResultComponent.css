@@ -1,0 +1,52 @@
+.r {
+    color: green;
+    margin-left: 10px;
+    text-align: center;
+  }
+  
+  .res {
+    margin-left: 10px;
+    margin: auto;
+    background-color: aliceblue;
+    width: 40%;
+    max-width: 600px; /* Added max-width for responsiveness */
+    padding: 20px; /* Added padding for better spacing */
+    border: 2px solid gainsboro;
+  }
+  
+  .play, .play1 {
+    width: 150px;
+    background-color: aliceblue;
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid transparent; /* Changed border to transparent initially */
+  }
+  
+  .play {
+    color: blue;
+    border-color: blue;
+  }
+  
+  .play1 {
+    color: green;
+    border-color: green;
+  }
+  
+  h1 {
+    color: blue;
+    text-align: center;
+    margin-top: 0; /* Removed margin-top for cleaner alignment */
+  }
+  
+  p {
+    margin: 10px 0; /* Adjusted margin for better spacing */
+    text-align: left; /* Adjusted text alignment */
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold; /* Corrected 'bolder' to 'bold' for correct CSS property */
+  }
+  
+  h3 {
+    text-align: center;
+  }
+  
